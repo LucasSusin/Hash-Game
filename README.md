@@ -1,2 +1,2 @@
 # HashGame
-Simple hash game
+Simple hash game made in delphi
