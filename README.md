@@ -1,0 +1,2 @@
+# HashGame
+Simple hash game
