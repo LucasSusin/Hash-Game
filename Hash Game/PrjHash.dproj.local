@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/01 14:32:37.000.876,=C:\Users\aulacx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/01 15:27:14.000.923,C:\Users\aulacx\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\aulacx\Documents\Jogo da velha LUiLuc\Unit1.dfm</Transaction>
+    <Transaction>2018/11/01 15:27:14.000.923,C:\Users\aulacx\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\aulacx\Documents\Jogo da velha LUiLuc\Unit1.pas</Transaction>
+    <Transaction>2018/11/01 15:27:18.000.517,C:\Users\aulacx\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\aulacx\Documents\Jogo da velha LUiLuc\Project1.dproj</Transaction>
+    <Transaction>2018/11/08 13:48:30.000.761,C:\Users\UCS\Pictures\Velha Lucas S e Luiggi\PrjVelha.dproj=C:\Users\UCS\Downloads\Jogo da velha LUiLuc\Project1.dproj</Transaction>
+    <Transaction>2018/11/08 13:48:39.000.625,C:\Users\UCS\Pictures\Velha Lucas S e Luiggi\UntPrincipal.pas=C:\Users\UCS\Downloads\Jogo da velha LUiLuc\Unit1.pas</Transaction>
+    <Transaction>2018/11/08 13:48:39.000.625,C:\Users\UCS\Pictures\Velha Lucas S e Luiggi\UntPrincipal.dfm=C:\Users\UCS\Downloads\Jogo da velha LUiLuc\Unit1.dfm</Transaction>
+    <Transaction>2018/11/08 15:09:51.000.906,C:\Users\lpschleder\Downloads\Hash Game\PrjVelha.dproj=C:\Users\lpschleder\Pictures\Hash Game\PrjHash.dproj</Transaction>
+    <Transaction>2018/11/08 15:09:57.000.564,C:\Users\lpschleder\Downloads\Hash Game\UntPrincipal.dfm=C:\Users\lpschleder\Pictures\Hash Game\UntPrincipal.dfm</Transaction>
+    <Transaction>2018/11/08 15:09:57.000.564,C:\Users\lpschleder\Downloads\Hash Game\UntPrincipal.pas=C:\Users\lpschleder\Pictures\Hash Game\UntPrincipal.pas</Transaction>
+  </Transactions>
+</BorlandProject>
