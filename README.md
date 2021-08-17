@@ -9,6 +9,8 @@
 
   <p align="center">
     Simple hash game made in Delphi (Pascal)
+    <br/>
+    ⚠️High School Project
   </p>
 </p>
 
